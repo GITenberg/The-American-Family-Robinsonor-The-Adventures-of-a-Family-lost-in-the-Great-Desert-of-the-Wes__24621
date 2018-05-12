@@ -1,0 +1,34 @@
+_repo: The-American-Family-Robinsonor-The-Adventures-of-a-Family-lost-in-the-Great-Desert-of-the-Wes__24621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belisle, D. W. (David W.)
+    alias: Belisle, David W.
+    gutenberg_agent_id: '26622'
+    url: http://www.gutenberg.org/2009/agents/26622
+description: ''
+gutenberg_issued: '2008-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountains -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Travelers -- Fiction'
+- !lcsh 'West (U.S)'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Deserts -- Fiction'
+title: 'The American Family Robinson
+
+  or, The Adventures of a Family lost in the Great Desert of the West'
+url: http://www.gutenberg.org/ebooks/24621
